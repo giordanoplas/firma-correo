@@ -12,7 +12,7 @@
 <p align="center">
   <h3>Firma Correo</h3>
 </p>
- - Este es un Proyecto hecho en React(frontend) NodeJS(backend). Este hace interacción con una base de datos MySQL. Además genera la firma de correo especificada para una empresa.
+ - Este es un Proyecto hecho en React(frontend) y NodeJS(backend). Este hace interacción con una base de datos MySQL. Además genera la firma de correo especificada para una empresa.
 <p align="center">
    <img src="https://raw.githubusercontent.com/giordanoplas/giordanoplas/cd76570d3152046b5cc74d603d47a5694646a5be/Bottom.svg" alt="Github Stats" />
 </p>
