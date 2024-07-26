@@ -1,0 +1,38 @@
+body {
+  text-align: center;
+  margin: 0 !important;
+  padding: 0 !important;
+
+  /* FUENTES */
+  font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: antialiased;
+}
+
+.signature {
+  height: 170px;
+  max-width: 100%;
+  white-space: nowrap;
+  background: #FFFFFF
+}
+
+.social-logos-frame {
+  width: 150px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  height: 32px;
+}
+
+.vertical-line {
+  width: 0;
+  height: 100%;
+  border-right: 1px solid grey;
+  margin-right: 9px;
+  margin-left: 10px
+}
+
+.main-image {
+  max-width: 250px;
+}
